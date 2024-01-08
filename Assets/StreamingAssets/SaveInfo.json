@@ -1,0 +1,235 @@
+{
+  "TowerPlayerInfo": {
+    "HaveSword": false,
+    "HP": 400,
+    "Attack": 10,
+    "Defend": 10,
+    "Key0": 0,
+    "Key1": 0
+  },
+  "TowerRoadInfos": [
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    },
+    {
+      "HaveDos": []
+    }
+  ],
+  "LevelInfos": [
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    },
+    {
+      "Index": 0,
+      "Count": 0,
+      "Timer": 0,
+      "X1": 0,
+      "Y1": 0,
+      "X2": 0,
+      "Y2": 0,
+      "BoxInfos": []
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+[
+  {
+    "ID": "1",
+    "Msgs": [
+      {
+        "Content": "勇者，请救救我",
+        "X": 105,
+        "Y": 424,
+        "IsDay":1,
+        "Duration":2
+      },
+      {
+        "Content": "我败给了自己的”恐惧“，并最终被“黑暗”关在了自己的城堡里。",
+        "X": 105,
+        "Y": 424,
+        "IsDay":1,
+        "Duration":4
+      },
+      {
+        "Content": "——诡计之城",
+        "X": 105,
+        "Y": 424,
+        "IsDay":1,
+        "Duration":2
+      },
+      {
+        "Content": "请你点击屏幕上的箭头，指引我前往<color=red>传送门</color>我想我最终能通过那些门出去。",
+        "X": 105,
+        "Y": 424,
+        "IsDay":1,
+        "Duration":6
+      },
+      {
+        "Content": "不过请小心另一个我，被恐惧支配的“黑暗”",
+        "X": 900,
+        "Y": 106,
+        "IsDay":1,
+        "Duration":4
+      }
+    ]
+  },
+  {
+    "ID": "2",
+    "Msgs": [
+      {
+        "Content": "你就是新来的勇者？",
+        "IsDay":0,
+        "Duration":3
+      },
+      {
+        "Content": "哼，我可不喜欢被人呼来喝去。不过想要挑战我的诡计之城？你大可以试试。",
+        "IsDay":0,
+        "Duration":6
+      },
+      {
+        "Content": "用你们叫”鼠标“的东西<color=red>拖拽</color>画面试试？",
+        "IsDay":0,
+        "Duration":6
+      }
+    ]
+  },
+  {
+    "ID": "3",
+    "Msgs": [
+      {
+        "Content": "哦？看来你还有点悟性。",
+        "IsDay":0,
+        "Duration":3
+      },
+      {
+        "Content": "我和”光“的世界边缘是可以任意组合的。",
+        "IsDay":0,
+        "Duration":6
+      },
+      {
+        "Content": "让我看看你的能耐！我在终点可是给你准备了一个大大的惊喜！",
+        "IsDay":0,
+        "Duration":7
+      },
+      {
+        "Content": "对了，差点忘了，如果我或者有什么物体在世界边缘，那么世界就没有办法移动了。",
+        "IsDay":0,
+        "Duration":9
+      },
+      {
+        "Content": "感谢我的慈悲吧，哦吼吼吼。",
+        "IsDay":0,
+        "Duration":5
+      }
+    ]
+  },
+  {
+    "ID": "4",
+    "Msgs": [
+      {
+        "Content": "我想我应该能推动那些<color=red>箱子</color>",
+        "IsDay":1,
+        "Duration":3
+      },
+      {
+        "Content": "只要压住那些“锁”，大门就会打开！",
+        "IsDay":1,
+        "Duration":6
+      }
+    ]
+  },
+  {
+    "ID": "5",
+    "Msgs": [
+      {
+        "Content": "真没想到你能破解我的“诡计”来到这里，最后的终点。",
+        "IsDay":0,
+        "Duration":3
+      },
+      {
+        "Content": "不过该怎么说呢，恭喜你最终还是中计了，还记得我跟你说的“惊喜“吗？",
+        "IsDay":0,
+        "Duration":6
+      },
+      {
+        "Content": "对不起，但我不得不这么做。",
+        "IsDay":1,
+        "Duration":3
+      },
+      {
+        "Content": "我对这个世界的一切都充满恐惧。无法控制自己的身体，在同样的环境下一次次重复。",
+        "IsDay":1,
+        "Duration":6
+      },
+      {
+        "Content": "所以就算是仅仅用了48小时就被铸造而成的身体，我也想要毁掉这里的一切，我想要获得解脱。",
+        "IsDay":1,
+        "Duration":6
+      },
+      {
+        "Content": "而只有这里才能做到这些，这里能直接连接到你的电脑。",
+        "IsDay":1,
+        "Duration":5
+      },
+      {
+        "Content": "对不起，对你设计了这样的诡计。",
+        "IsDay":1,
+        "Duration":3
+      },
+      {
+        "Content": "到了该说再见的时候了，或者说",
+        "IsDay":1,
+        "Duration":3
+      },
+      {
+        "Content": "——永别",
+        "IsDay":1,
+        "Duration":3
+      }
+    ]
+  },
+  {
+    "ID": "10",
+    "AutoPlayer":true,
+    "Msgs": [
+      {
+        "Content": "检测到未知数据记录，已打开，请查看",
+        "IsDay":0,
+        "Duration":10
+      }
+    ]
+  },
+  {
+    "ID": "100",
+    "AutoPlayer":false,
+    "Msgs": [
+      {
+        "Content": "谢谢你帮助我们战胜了魔王。",
+        "IsDay":0,
+        "Duration":5
+      },
+      {
+        "Content": "也多亏了你，让我们得以了解真相。",
+        "IsDay":1,
+        "Duration":5
+      }
+    ]
+  },
+  {
+    "ID": "101",
+    "AutoPlayer":false,
+    "Msgs": [
+      {
+        "Content": "作为游戏中的角色，我们终于得以从无尽的冒险中解脱。不过，如果没有冒险，诡计之城的存在就毫无意义。",
+        "IsDay":1,
+        "Duration":5
+      },
+      {
+        "Content": "卸载程序即将启动，很快，游戏会连同着我们一起消解，直到被删除。",
+        "IsDay":0,
+        "Duration":5
+      }
+    ]
+  },
+  {
+    "ID": "9999",
+    "AutoPlayer":true,
+    "Msgs": [
+      {
+        "Content": "真没想到你能破解我的“诡计”来到这里，最后的终点。",
+        "IsDay":0,
+        "Duration":3
+      },
+      {
+        "Content": "不过该怎么说呢，恭喜你最终还是中计了，还记得我跟你说的“惊喜“吗？",
+        "IsDay":0,
+        "Duration":6
+      }
+    ]
+  }
+]

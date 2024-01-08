@@ -1,0 +1,5876 @@
+fileFormatVersion: 2
+guid: f7a516625ac1f714c982250bbaae9c02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6973300789206757707
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_0"
+  - first:
+      213: 4587162645752097006
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_1"
+  - first:
+      213: 1723450004257389511
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_2"
+  - first:
+      213: 5801627342359188545
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_3"
+  - first:
+      213: -7127334406409884526
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_4"
+  - first:
+      213: 6214212465335888568
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_5"
+  - first:
+      213: -6627963137905950773
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_6"
+  - first:
+      213: 4536375791380946006
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_7"
+  - first:
+      213: 3897984802723698493
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_8"
+  - first:
+      213: 263843426895444042
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_9"
+  - first:
+      213: -4859498695199893631
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_10"
+  - first:
+      213: 6996171912723247827
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_11"
+  - first:
+      213: -6480116467712921057
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_12"
+  - first:
+      213: 5033084845937620309
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_13"
+  - first:
+      213: -8108809001941035980
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_14"
+  - first:
+      213: -2696985179225910192
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_15"
+  - first:
+      213: 2872430213067789561
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_16"
+  - first:
+      213: 7778624976686348946
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_17"
+  - first:
+      213: -9154562155248512151
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_18"
+  - first:
+      213: -4864622516846662159
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_19"
+  - first:
+      213: 2163570969175144208
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_20"
+  - first:
+      213: 8192146391823159478
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_21"
+  - first:
+      213: 1399772180650044410
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_22"
+  - first:
+      213: 6158592955797290940
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_23"
+  - first:
+      213: -1618131742330305868
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_24"
+  - first:
+      213: 8514315531407912111
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_25"
+  - first:
+      213: -7896917772446363942
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_26"
+  - first:
+      213: 6174531076583659555
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_27"
+  - first:
+      213: 8613997186137432571
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_28"
+  - first:
+      213: 3699109965443248312
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_29"
+  - first:
+      213: -781041392720380207
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_30"
+  - first:
+      213: 7700448947195437473
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_31"
+  - first:
+      213: -2580281187737021828
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_32"
+  - first:
+      213: -1546853605678549167
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_33"
+  - first:
+      213: -1943165468177492545
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_34"
+  - first:
+      213: -229230694344031044
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_35"
+  - first:
+      213: -1472642661373698261
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_36"
+  - first:
+      213: 6429191954200751680
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_37"
+  - first:
+      213: 4054434547164259390
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_38"
+  - first:
+      213: -4342281864576532598
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_39"
+  - first:
+      213: -7318517436870766060
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_40"
+  - first:
+      213: 7344934840731332075
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_41"
+  - first:
+      213: -3107481453810875853
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_42"
+  - first:
+      213: -1834083404900048574
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_43"
+  - first:
+      213: 6411594588822562892
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_44"
+  - first:
+      213: 8458695638767306699
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_45"
+  - first:
+      213: -5081779210528219413
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_46"
+  - first:
+      213: 1540706959989532220
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_47"
+  - first:
+      213: 4187458852530417550
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_48"
+  - first:
+      213: -4816824442433948723
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_49"
+  - first:
+      213: -8629857259920190175
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_50"
+  - first:
+      213: 7149873504588851164
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_51"
+  - first:
+      213: -5281014890133813730
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_52"
+  - first:
+      213: 7975399339730064013
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_53"
+  - first:
+      213: 7800204143522011901
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_54"
+  - first:
+      213: -5197946852702354055
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_55"
+  - first:
+      213: -1196273144839826477
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_56"
+  - first:
+      213: 6988802983164215060
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_57"
+  - first:
+      213: -211127358243539319
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_58"
+  - first:
+      213: 3233600104667856720
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_59"
+  - first:
+      213: -1539512396035476333
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_60"
+  - first:
+      213: -8058772912128772256
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_61"
+  - first:
+      213: 3711087967861456738
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_62"
+  - first:
+      213: 3904105809020822514
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_63"
+  - first:
+      213: -5275381048669271066
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_64"
+  - first:
+      213: 5942281066306547007
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_65"
+  - first:
+      213: 8337015784881144239
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_66"
+  - first:
+      213: 5857072648350789888
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_67"
+  - first:
+      213: 7694242360127241493
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_68"
+  - first:
+      213: -106416174756858855
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_69"
+  - first:
+      213: -6713862821305414474
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_70"
+  - first:
+      213: 3072297970847015819
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_71"
+  - first:
+      213: -5943776820370945131
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_72"
+  - first:
+      213: 1053198848731701840
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_73"
+  - first:
+      213: -1298406822132398734
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_74"
+  - first:
+      213: 6025299443749921166
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_75"
+  - first:
+      213: 6142968193003484814
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_76"
+  - first:
+      213: 521012345323960365
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_77"
+  - first:
+      213: -3756123763916589571
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_78"
+  - first:
+      213: -1924023160721114835
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_79"
+  - first:
+      213: 4073885431164926207
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_80"
+  - first:
+      213: -9135150609298650721
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_81"
+  - first:
+      213: -6518474144046670605
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_82"
+  - first:
+      213: 978294373492589241
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_83"
+  - first:
+      213: -8128335500835609326
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_84"
+  - first:
+      213: 5813493407190654558
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_85"
+  - first:
+      213: 3183419514946584104
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_86"
+  - first:
+      213: 5888100002123642714
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_87"
+  - first:
+      213: 997715469664804777
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_88"
+  - first:
+      213: 8530922975638767457
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_89"
+  - first:
+      213: 6505532983523634394
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_90"
+  - first:
+      213: 3836742668440607520
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_91"
+  - first:
+      213: 363107076101171220
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_92"
+  - first:
+      213: 4472535429295252599
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_93"
+  - first:
+      213: -4239782248714537852
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_94"
+  - first:
+      213: 5442907413503943021
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_95"
+  - first:
+      213: -5838939736302689982
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_96"
+  - first:
+      213: -4896079069124326366
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_97"
+  - first:
+      213: 195079155681607962
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_98"
+  - first:
+      213: 1859883180145782346
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_99"
+  - first:
+      213: 2770319016528540582
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_100"
+  - first:
+      213: -2069629013474656002
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_101"
+  - first:
+      213: -2923635302137272968
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_102"
+  - first:
+      213: 7080252238772165869
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_103"
+  - first:
+      213: 7509665950610529722
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_104"
+  - first:
+      213: -977648100257901079
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_105"
+  - first:
+      213: -6968346154495871543
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_106"
+  - first:
+      213: 7785523854630521351
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_107"
+  - first:
+      213: 7941055585283954000
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_108"
+  - first:
+      213: 1233016253524971025
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_109"
+  - first:
+      213: 9046277273657694939
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_110"
+  - first:
+      213: 8406815438384999589
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_111"
+  - first:
+      213: -8074340226762199500
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_112"
+  - first:
+      213: -7694890987385283699
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_113"
+  - first:
+      213: -3686275038234355017
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_114"
+  - first:
+      213: 1212213806700347036
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_115"
+  - first:
+      213: -1871758983552341129
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_116"
+  - first:
+      213: -4814843839738270557
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_117"
+  - first:
+      213: -1574442315256562651
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_118"
+  - first:
+      213: -576087256219329810
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_119"
+  - first:
+      213: -1686073547324138912
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_120"
+  - first:
+      213: 2013481283199157349
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_121"
+  - first:
+      213: 5209949628094542538
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_122"
+  - first:
+      213: -7992443925648344463
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_123"
+  - first:
+      213: 7117299818730767736
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_124"
+  - first:
+      213: 5944591903479611520
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_125"
+  - first:
+      213: 6290107344407891210
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_126"
+  - first:
+      213: 4783484715415717279
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_127"
+  - first:
+      213: 5918265711006323652
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_128"
+  - first:
+      213: 3108418579467414223
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_129"
+  - first:
+      213: 2306498664322500312
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_130"
+  - first:
+      213: 7146443554729298170
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_131"
+  - first:
+      213: 1155113964271291065
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_132"
+  - first:
+      213: -5741152540891160732
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_133"
+  - first:
+      213: -19007353092908742
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_134"
+  - first:
+      213: -8055282830276240910
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_135"
+  - first:
+      213: -7661777323444759800
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_136"
+  - first:
+      213: 5870955713459532781
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_137"
+  - first:
+      213: 7249309178831459816
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_138"
+  - first:
+      213: 7207184126713394885
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_139"
+  - first:
+      213: -6472945450926575906
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_140"
+  - first:
+      213: -1944503466927166064
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_141"
+  - first:
+      213: 5555074684427522133
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_142"
+  - first:
+      213: 2579706879248707834
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_143"
+  - first:
+      213: -1570828068876598176
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_144"
+  - first:
+      213: -5797362379464780331
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_145"
+  - first:
+      213: -5175042877594282842
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_146"
+  - first:
+      213: -3025544215467171232
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_147"
+  - first:
+      213: 273760878721041829
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_148"
+  - first:
+      213: 1235385929931278631
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_149"
+  - first:
+      213: 7113174759183163189
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_150"
+  - first:
+      213: 1420369860558264502
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_151"
+  - first:
+      213: -2937998778085933347
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_152"
+  - first:
+      213: 982148909913743523
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_153"
+  - first:
+      213: 6509989036454048446
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_154"
+  - first:
+      213: 4657993417259972925
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_155"
+  - first:
+      213: -1257534569793682509
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_156"
+  - first:
+      213: 8223348683090169656
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_157"
+  - first:
+      213: 3039013615301257216
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_158"
+  - first:
+      213: -2738287970776748902
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_159"
+  - first:
+      213: -799314190610445903
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_160"
+  - first:
+      213: -3069508159235108646
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_161"
+  - first:
+      213: 1315465027603886220
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_162"
+  - first:
+      213: 8200092192507456934
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_163"
+  - first:
+      213: 8436182369619280841
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_164"
+  - first:
+      213: -254221162612258134
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_165"
+  - first:
+      213: -4740841748043265581
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_166"
+  - first:
+      213: 628568967233597953
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_167"
+  - first:
+      213: -446994015838603207
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_168"
+  - first:
+      213: 1282768949230536594
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_169"
+  - first:
+      213: 5430197888044682696
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_170"
+  - first:
+      213: -8401290290559970079
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_171"
+  - first:
+      213: 10619608714277258
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_172"
+  - first:
+      213: -5982835704482242627
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_173"
+  - first:
+      213: -437948988949494657
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_174"
+  - first:
+      213: -6825899537210976793
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_175"
+  - first:
+      213: -3954309959262883822
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_176"
+  - first:
+      213: 790202288577805400
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_177"
+  - first:
+      213: 6607514749885165272
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_178"
+  - first:
+      213: -1834039001281663020
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_179"
+  - first:
+      213: -2303820924701956645
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_180"
+  - first:
+      213: 1042548815753002502
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_181"
+  - first:
+      213: -1609897056635815396
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_182"
+  - first:
+      213: -8738450388385161998
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_183"
+  - first:
+      213: 2109298715086873196
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_184"
+  - first:
+      213: 8506161676544492571
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_185"
+  - first:
+      213: -1349675425958815643
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_186"
+  - first:
+      213: 4326213072302043116
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_187"
+  - first:
+      213: -6929361139302556028
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_188"
+  - first:
+      213: 5890766592791351741
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_189"
+  - first:
+      213: -1052457145884441599
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_190"
+  - first:
+      213: 4218414918064787771
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_191"
+  - first:
+      213: -2377792178325503659
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_192"
+  - first:
+      213: -1250928407430434209
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_193"
+  - first:
+      213: -895999117798551991
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_194"
+  - first:
+      213: -6480013560461797394
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_195"
+  - first:
+      213: 5894320152165533910
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_196"
+  - first:
+      213: 5274989264749842208
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_197"
+  - first:
+      213: 2851879449269908402
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_198"
+  - first:
+      213: -5618620268276742844
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_199"
+  - first:
+      213: -1723693166494189273
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_200"
+  - first:
+      213: -3547911736028723543
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_201"
+  - first:
+      213: -4101123745956683843
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_202"
+  - first:
+      213: 1130683513706690303
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_203"
+  - first:
+      213: -1407221481696270474
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_204"
+  - first:
+      213: -7382171510781539212
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_205"
+  - first:
+      213: 6035155193183773161
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_206"
+  - first:
+      213: -5400348685232620828
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_207"
+  - first:
+      213: 5256322545619123111
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_208"
+  - first:
+      213: 5740522917334500209
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_209"
+  - first:
+      213: -6435640855780466559
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_210"
+  - first:
+      213: 565114642707659133
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_211"
+  - first:
+      213: -6651873186248370716
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_212"
+  - first:
+      213: -392184601840348967
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_213"
+  - first:
+      213: -6291809278792227267
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_214"
+  - first:
+      213: -4235138817377727863
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_215"
+  - first:
+      213: 8984485536739065793
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_216"
+  - first:
+      213: 7753320240217591129
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_217"
+  - first:
+      213: -1666326228613288750
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_218"
+  - first:
+      213: 6601529007552067998
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_219"
+  - first:
+      213: 3369759005166724515
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_220"
+  - first:
+      213: 217091925582919655
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_221"
+  - first:
+      213: 1129277343145375904
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_222"
+  - first:
+      213: 4097756468323445534
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_223"
+  - first:
+      213: -5678219477515286563
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_224"
+  - first:
+      213: 2674311768555981133
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_225"
+  - first:
+      213: 4683899484143090247
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_226"
+  - first:
+      213: -5156702845804878420
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_227"
+  - first:
+      213: -8971917585106824763
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_228"
+  - first:
+      213: 1097444411331762494
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_229"
+  - first:
+      213: -8910640933103287641
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_230"
+  - first:
+      213: 7933766139146677119
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_231"
+  - first:
+      213: 2551111725362510550
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_232"
+  - first:
+      213: 1267309009476323323
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_233"
+  - first:
+      213: -7753058464841544109
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_234"
+  - first:
+      213: 1963134742936498575
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_235"
+  - first:
+      213: 1718630906893055514
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_236"
+  - first:
+      213: -2531927053614355651
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_237"
+  - first:
+      213: 577726310257081079
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_238"
+  - first:
+      213: 1292585519827209042
+    second: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_239"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41be942f1426c060800000000000000
+      internalID: 6973300789206757707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2016
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8aefa5f10e8af30800000000000000
+      internalID: 4587162645752097006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2016
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb38ebc5aceae710800000000000000
+      internalID: 1723450004257389511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2016
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144538c5455838050800000000000000
+      internalID: 5801627342359188545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce48e9e1f961d90800000000000000
+      internalID: -7127334406409884526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1984
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba662b10515d3650800000000000000
+      internalID: 6214212465335888568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1984
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7bbc74aeb404a0800000000000000
+      internalID: -6627963137905950773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1984
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c51fc5fb174fe30800000000000000
+      internalID: 4536375791380946006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1952
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d379732968c681630800000000000000
+      internalID: 3897984802723698493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1952
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48bc68e23c59a300800000000000000
+      internalID: 263843426895444042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1952
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d226fea79f8cb0800000000000000
+      internalID: -4859498695199893631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1952
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d23f6d8945671160800000000000000
+      internalID: 6996171912723247827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12ffced7600216a0800000000000000
+      internalID: -6480116467712921057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555738e300c19d540800000000000000
+      internalID: 5033084845937620309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43490dfcc29b77f80800000000000000
+      internalID: -8108809001941035980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1920
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0541fbbc442629ad0800000000000000
+      internalID: -2696985179225910192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4510c5f0cecd720800000000000000
+      internalID: 2872430213067789561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1888
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29afe50143a33fb60800000000000000
+      internalID: 7778624976686348946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1888
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9639d26093674f080800000000000000
+      internalID: -9154562155248512151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1888
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdecf448936d7cb0800000000000000
+      internalID: -4864622516846662159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173808555c860e10800000000000000
+      internalID: 2163570969175144208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b01e905db950b170800000000000000
+      internalID: 8192146391823159478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbae1ac16dfc6310800000000000000
+      internalID: 1399772180650044410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1856
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf3586e9a7b77550800000000000000
+      internalID: 6158592955797290940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24e9ae0cd3b89e0800000000000000
+      internalID: -1618131742330305868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face8237ddce82670800000000000000
+      internalID: 8514315531407912111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade8dd82023886290800000000000000
+      internalID: -7896917772446363942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1824
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3281162dc4750b550800000000000000
+      internalID: 6174531076583659555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1afe74dc01b8770800000000000000
+      internalID: 8613997186137432571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03a533ae0e55330800000000000000
+      internalID: 3699109965443248312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de7600ddfe2925f0800000000000000
+      internalID: -781041392720380207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1792
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a16d9cc48d7dda60800000000000000
+      internalID: 7700448947195437473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72df404eeff03cd0800000000000000
+      internalID: -2580281187737021828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1577ff957d8788ae0800000000000000
+      internalID: -1546853605678549167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb599715d4d7805e0800000000000000
+      internalID: -1943165468177492545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb40204e5eb91dcf0800000000000000
+      internalID: -229230694344031044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f1cb74d4f109be0800000000000000
+      internalID: -1472642661373698261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e6feed404193950800000000000000
+      internalID: 6429191954200751680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e342cc44dbe344830800000000000000
+      internalID: 4054434547164259390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1728
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7b4b86ad1db3c0800000000000000
+      internalID: -4342281864576532598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d0d49a276f6a90800000000000000
+      internalID: -7318517436870766060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed6e2092537ee560800000000000000
+      internalID: 7344934840731332075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3320d77f41200e4d0800000000000000
+      internalID: -3107481453810875853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1696
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416e725cd60c86e0800000000000000
+      internalID: -1834083404900048574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48e596fe4f8af850800000000000000
+      internalID: 6411594588822562892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc70fdb0ed2536570800000000000000
+      internalID: 8458695638767306699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee10818bb4e979b0800000000000000
+      internalID: -5081779210528219413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1664
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e52d21d0b16510800000000000000
+      internalID: 1540706959989532220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fe3a8e3a7dc1a30800000000000000
+      internalID: 4187458852530417550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc33e43b0b3372db0800000000000000
+      internalID: -4816824442433948723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12591288b869c3880800000000000000
+      internalID: -8629857259920190175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7eefd1214793360800000000000000
+      internalID: 7149873504588851164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16860cffe016b6b0800000000000000
+      internalID: -5281014890133813730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82de7aa17f4eae60800000000000000
+      internalID: 7975399339730064013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad82e5754ef3c60800000000000000
+      internalID: 7800204143522011901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1600
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975015b90ee2dd7b0800000000000000
+      internalID: -5197946852702354055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d39b73b9ebf56fe0800000000000000
+      internalID: -1196273144839826477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f71b0f8473df060800000000000000
+      internalID: 6988802983164215060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986f68949cce11df0800000000000000
+      internalID: -211127358243539319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_59"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1568
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fb460b92e00ec20800000000000000
+      internalID: 3233600104667856720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_60"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394befae1ad82aae0800000000000000
+      internalID: -1539512396035476333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_61"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067360fcbbc792090800000000000000
+      internalID: -8058772912128772256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_62"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fbb9638de608330800000000000000
+      internalID: 3711087967861456738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_63"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1536
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3a9386c8b2e2630800000000000000
+      internalID: 3904105809020822514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_64"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb8d3be2e41ac6b0800000000000000
+      internalID: -5275381048669271066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_65"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d2bb07529377250800000000000000
+      internalID: 5942281066306547007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_66"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14aa85fa703b370800000000000000
+      internalID: 8337015784881144239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_67"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001fa94aa80884150800000000000000
+      internalID: 5857072648350789888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_68"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db52329a077ca60800000000000000
+      internalID: 7694242360127241493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_69"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914f2498d0fe58ef0800000000000000
+      internalID: -106416174756858855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_70"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8369e55193d2a0800000000000000
+      internalID: -6713862821305414474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_71"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1472
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836d7c0abef2aa20800000000000000
+      internalID: 3072297970847015819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_72"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc69d2976738da0800000000000000
+      internalID: -5943776820370945131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_73"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e088d5c6bd9e00800000000000000
+      internalID: 1053198848731701840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_74"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275cad0efd12bfde0800000000000000
+      internalID: -1298406822132398734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_75"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1440
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a212bbe92e9350800000000000000
+      internalID: 6025299443749921166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_76"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86fe725605304550800000000000000
+      internalID: 6142968193003484814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_77"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28b0a6b7f10b3700800000000000000
+      internalID: 521012345323960365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_78"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5395766519fdbc0800000000000000
+      internalID: -3756123763916589571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_79"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29f795112f7c45e0800000000000000
+      internalID: -1924023160721114835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_80"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8793c1739598830800000000000000
+      internalID: 4073885431164926207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_81"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f998f03cbec693180800000000000000
+      internalID: -9135150609298650721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_82"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc97866d4ab985a0800000000000000
+      internalID: -6518474144046670605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_83"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1376
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20ac9ac89939d00800000000000000
+      internalID: 978294373492589241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_84"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2152f718de9523f80800000000000000
+      internalID: -8128335500835609326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_85"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9cafd37dada050800000000000000
+      internalID: 5813493407190654558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_86"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eff6fae27cd2c20800000000000000
+      internalID: 3183419514946584104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_87"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a577e8461cbb6b150800000000000000
+      internalID: 5888100002123642714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_88"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af584cfee898dd00800000000000000
+      internalID: 997715469664804777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_89"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167ca216f3de36670800000000000000
+      internalID: 8530922975638767457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_90"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc638dd7cb484a50800000000000000
+      internalID: 6505532983523634394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_91"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b9cf60129de3530800000000000000
+      internalID: 3836742668440607520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_92"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418e07e36f30a0500800000000000000
+      internalID: 363107076101171220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_93"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7742e74c643a11e30800000000000000
+      internalID: 4472535429295252599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_94"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484fc5412844925c0800000000000000
+      internalID: -4239782248714537852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_95"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1280
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d612e3f6477198b40800000000000000
+      internalID: 5442907413503943021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_96"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241e3c0fe3be7fea0800000000000000
+      internalID: -5838939736302689982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_97"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c8e94f602ad0cb0800000000000000
+      internalID: -4896079069124326366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_98"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114c71657f05b200800000000000000
+      internalID: 195079155681607962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_99"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2054f5e1afc910800000000000000
+      internalID: 1859883180145782346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_100"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a371beb776227620800000000000000
+      internalID: 2770319016528540582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_101"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0400ba0633743e0800000000000000
+      internalID: -2069629013474656002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_102"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875e05bce292d67d0800000000000000
+      internalID: -2923635302137272968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_103"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1216
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decdd2cf5eb124260800000000000000
+      internalID: 7080252238772165869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_104"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd9cf7e461b73860800000000000000
+      internalID: 7509665950610529722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_105"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5dacc8b32be62f0800000000000000
+      internalID: -977648100257901079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_106"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57055a7167b4f90800000000000000
+      internalID: -6968346154495871543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_107"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1184
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a059142bcbb0c60800000000000000
+      internalID: 7785523854630521351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_108"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0555b763bfb443e60800000000000000
+      internalID: 7941055585283954000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_109"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e83a1ffbd8c1110800000000000000
+      internalID: 1233016253524971025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_110"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5e0c4045da8d70800000000000000
+      internalID: 9046277273657694939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_111"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac253999120ba470800000000000000
+      internalID: 8406815438384999589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_112"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e213ce75e22ff80800000000000000
+      internalID: -8074340226762199500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_113"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b9b8f8a61463590800000000000000
+      internalID: -7694890987385283699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_114"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad6a92268b7dcc0800000000000000
+      internalID: -3686275038234355017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_115"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eb23cd806a2d010800000000000000
+      internalID: 1212213806700347036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_116"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b67381f1d2606e0800000000000000
+      internalID: -1871758983552341129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_117"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac2c63b90d3e2db0800000000000000
+      internalID: -4814843839738270557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_118"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf9c75e05762ae0800000000000000
+      internalID: -1574442315256562651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_119"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeada6551b35108f0800000000000000
+      internalID: -576087256219329810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_120"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06adf8aba0dd998e0800000000000000
+      internalID: -1686073547324138912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_121"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564cbf62f8251fb10800000000000000
+      internalID: 2013481283199157349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_122"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2f04055957d4840800000000000000
+      internalID: 5209949628094542538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_123"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a708c6892251190800000000000000
+      internalID: -7992443925648344463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_124"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875466fd97ab5c260800000000000000
+      internalID: 7117299818730767736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_125"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080c09527de6f7250800000000000000
+      internalID: 5944591903479611520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_126"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d0286ad43fa4750800000000000000
+      internalID: 6290107344407891210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_127"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1024
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f954dd2310a526240800000000000000
+      internalID: 4783484715415717279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_128"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c318eece47e12250800000000000000
+      internalID: 5918265711006323652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_129"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca216a9a32532b20800000000000000
+      internalID: 3108418579467414223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_130"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60bd99054520020800000000000000
+      internalID: 2306498664322500312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_131"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8050fac844d2360800000000000000
+      internalID: 7146443554729298170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_132"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bacb7bc70ac70010800000000000000
+      internalID: 1155113964271291065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_133"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fd9d69e245350b0800000000000000
+      internalID: -5741152540891160732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_134"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39d6ceb9e87cbff0800000000000000
+      internalID: -19007353092908742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_135"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9d410d1f2e53090800000000000000
+      internalID: -8055282830276240910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_136"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8039eef3e16eba590800000000000000
+      internalID: -7661777323444759800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_137"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33ec0ad13d97150800000000000000
+      internalID: 5870955713459532781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_138"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55a372a48ba9460800000000000000
+      internalID: 7249309178831459816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_139"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6f59727cf050460800000000000000
+      internalID: 7207184126713394885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_140"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede6a03586a7b26a0800000000000000
+      internalID: -6472945450926575906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_141"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d6a45366cb305e0800000000000000
+      internalID: -1944503466927166064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_142"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55051125ef6971d40800000000000000
+      internalID: 5555074684427522133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_143"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 896
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af030422db5fcc320800000000000000
+      internalID: 2579706879248707834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_144"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064c567a13c433ae0800000000000000
+      internalID: -1570828068876598176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_145"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5d9c1b1a1ab8fa0800000000000000
+      internalID: -5797362379464780331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_146"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4d39fdbed8e28b0800000000000000
+      internalID: -5175042877594282842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_147"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 864
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06267d8e09b1306d0800000000000000
+      internalID: -3025544215467171232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_148"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5019991189cc300800000000000000
+      internalID: 273760878721041829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_149"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729c11a35f8f42110800000000000000
+      internalID: 1235385929931278631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_150"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f136a91c217b260800000000000000
+      internalID: 7113174759183163189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_151"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b81f3cdcda26b310800000000000000
+      internalID: 1420369860558264502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_152"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef7a17da12a37d0800000000000000
+      internalID: -2937998778085933347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_153"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a022fbda3b41ad00800000000000000
+      internalID: 982148909913743523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_154"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f7898980285a50800000000000000
+      internalID: 6509989036454048446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_155"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3973e9755484a040800000000000000
+      internalID: 4657993417259972925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_156"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b38ca2b8f65c8ee0800000000000000
+      internalID: -1257534569793682509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_157"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f04cfde043f1270800000000000000
+      internalID: 8223348683090169656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_158"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0086b9f18cebc2a20800000000000000
+      internalID: 3039013615301257216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_159"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c60214995aff9d0800000000000000
+      internalID: -2738287970776748902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_160"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b94cb48af348e4f0800000000000000
+      internalID: -799314190610445903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_161"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d0a5979ae665d0800000000000000
+      internalID: -3069508159235108646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_162"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8077c41978714210800000000000000
+      internalID: 1315465027603886220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_163"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad6cd337649cc170800000000000000
+      internalID: 8200092192507456934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_164"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c302991b27531570800000000000000
+      internalID: 8436182369619280841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_165"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa0c141333d87cf0800000000000000
+      internalID: -254221162612258134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_166"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d90a875c85253eb0800000000000000
+      internalID: -4740841748043265581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_167"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102fac8352029b800800000000000000
+      internalID: 628568967233597953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_168"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f6359f45fbc9f0800000000000000
+      internalID: -446994015838603207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_169"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29789cb109f4dc110800000000000000
+      internalID: 1282768949230536594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_170"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdcaf07530fb5b40800000000000000
+      internalID: 5430197888044682696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_171"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e41c302efe986b80800000000000000
+      internalID: -8401290290559970079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_172"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8171155a7ab52000800000000000000
+      internalID: 10619608714277258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_173"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfdfcc00a2b8fca0800000000000000
+      internalID: -5982835704482242627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_174"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f748ce307b71ce9f0800000000000000
+      internalID: -437948988949494657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_175"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5590c39888541a0800000000000000
+      internalID: -6825899537210976793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_176"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b85afa087f19c0800000000000000
+      internalID: -3954309959262883822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_177"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c71677bcc57fa00800000000000000
+      internalID: 790202288577805400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_178"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de2f0b28ab92bb50800000000000000
+      internalID: 6607514749885165272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_179"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe468de3f2c86e0800000000000000
+      internalID: -1834039001281663020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_180"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5270d331f2700e0800000000000000
+      internalID: -2303820924701956645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_181"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e36ffcf90e77e00800000000000000
+      internalID: 1042548815753002502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_182"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a7646182f78a9e0800000000000000
+      internalID: -1609897056635815396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_183"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc9de88ba9cab680800000000000000
+      internalID: -8738450388385161998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_184"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e0fd710cb54d10800000000000000
+      internalID: 2109298715086873196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_185"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14c97c2af4fb0670800000000000000
+      internalID: 8506161676544492571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_186"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56896a9d95df44de0800000000000000
+      internalID: -1349675425958815643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_187"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefe6353edbc90c30800000000000000
+      internalID: 4326213072302043116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_188"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9973d1c6f5df90800000000000000
+      internalID: -6929361139302556028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_189"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1111a610530c150800000000000000
+      internalID: 5890766592791351741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_190"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1048c3e4dcbe461f0800000000000000
+      internalID: -1052457145884441599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_191"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31d5729402da8a30800000000000000
+      internalID: 4218414918064787771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_192"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c435ac92600fd0800000000000000
+      internalID: -2377792178325503659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_193"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f9abbd3fc3aee0800000000000000
+      internalID: -1250928407430434209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_194"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecd80bc85c093f0800000000000000
+      internalID: -895999117798551991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_195"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d5f4dffd5216a0800000000000000
+      internalID: -6480013560461797394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_196"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c04ee2f4dcc150800000000000000
+      internalID: 5894320152165533910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_197"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc967c9c6843940800000000000000
+      internalID: 5274989264749842208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_198"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b338fbcf39e39720800000000000000
+      internalID: 2851879449269908402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_199"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4450e8d72a6a602b0800000000000000
+      internalID: -5618620268276742844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_200"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729785592363418e0800000000000000
+      internalID: -1723693166494189273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_201"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6819fd21943cec0800000000000000
+      internalID: -3547911736028723543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_202"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf15568ea1e517c0800000000000000
+      internalID: -4101123745956683843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_203"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b0e34aaef0bf00800000000000000
+      internalID: 1130683513706690303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_204"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e137a48b887ce0800000000000000
+      internalID: -1407221481696270474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_205"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c8bd49f124d8990800000000000000
+      internalID: -7382171510781539212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_206"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1a21e2cad21c350800000000000000
+      internalID: 6035155193183773161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_207"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea3679ab7b1e05b0800000000000000
+      internalID: -5400348685232620828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_208"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab318c818532f840800000000000000
+      internalID: 5256322545619123111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_209"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17346b0cd2f6aaf40800000000000000
+      internalID: 5740522917334500209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_210"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180e6393db200b6a0800000000000000
+      internalID: -6435640855780466559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_211"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7936fff5c0b7d700800000000000000
+      internalID: 565114642707659133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_212"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e558ba849ccfa3a0800000000000000
+      internalID: -6651873186248370716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_213"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d09de8be2eae8af0800000000000000
+      internalID: -392184601840348967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_214"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36251fdbc00fa8a0800000000000000
+      internalID: -6291809278792227267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_215"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a8bbf2fa3c935c0800000000000000
+      internalID: -4235138817377727863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_216"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf77fa6efd4fac70800000000000000
+      internalID: 8984485536739065793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_217"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d040cfda3599b60800000000000000
+      internalID: 7753320240217591129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_218"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dca697af1500e8e0800000000000000
+      internalID: -1666326228613288750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_219"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99f39de7a75d9b50800000000000000
+      internalID: 6601529007552067998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_220"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e2a126f9c3ce20800000000000000
+      internalID: 3369759005166724515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_221"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7b9f3c4f3430300800000000000000
+      internalID: 217091925582919655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_222"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8b31ba2cffbaf00800000000000000
+      internalID: 1129277343145375904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_223"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b6a7e0cc72ed830800000000000000
+      internalID: 4097756468323445534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_224"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd74ffd3879e231b0800000000000000
+      internalID: -5678219477515286563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_225"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d490d6762601d1520800000000000000
+      internalID: 2674311768555981133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_226"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74afbf3b3cd800140800000000000000
+      internalID: 4683899484143090247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_227"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ed874516bf68b0800000000000000
+      internalID: -5156702845804878420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_228"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c190a9dd785d7380800000000000000
+      internalID: -8971917585106824763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_229"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39da2aa0e7ea3f00800000000000000
+      internalID: 1097444411331762494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_230"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c25d284b075480800000000000000
+      internalID: -8910640933103287641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_231"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b2cd6c4466a1e60800000000000000
+      internalID: 7933766139146677119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_232"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf09c099e576320800000000000000
+      internalID: 2551111725362510550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_233"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf70d7264d2669110800000000000000
+      internalID: 1267309009476323323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_234"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec848576a976490800000000000000
+      internalID: -7753058464841544109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_235"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8135f6c5a47e3b10800000000000000
+      internalID: 1963134742936498575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_236"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163e5144bdc9d710800000000000000
+      internalID: 1718630906893055514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_237"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b6d1c62c9ccdcd0800000000000000
+      internalID: -2531927053614355651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_238"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa354ca40f740800800000000000000
+      internalID: 577726310257081079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u654C\u4EBA(enemy)_\u7231\u7ED9\u7F51_aigei_com_239"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b4d1f8eaf20f110800000000000000
+      internalID: 1292585519827209042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
